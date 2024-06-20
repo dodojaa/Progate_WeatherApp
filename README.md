@@ -9,4 +9,5 @@ export const API_KEY = 'API Key yang telah didapatkan'; <-- put in here inside '
 ## How to Start
 
 1.cd ProgateWeatherApp
+
 2.npm run Android
